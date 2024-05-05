@@ -1,4 +1,4 @@
-  #  Hi 👋🏼 I'm Wendy
+ #  Hi 👋🏼 I'm Wendy
 
 # 
 I am a software Engineer that specializes in building user friendly and scalable applications while employing problem solving skills to deliver innovative solutions.
