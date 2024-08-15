@@ -6,7 +6,7 @@ I am a software Engineer that specializes in building user friendly and scalable
 
 
 # 💫 About Me:
-🔭 I’m currently working on next.JS<br><br>👯 I’m looking to collaborate with software developers<br><br>🌱 I’m currently learning react native<br><br>💬 Ask me about the architecture of web applications, object-oriented  principles and web services.<br> <br>⚡ Fun fact : I love animal documentaries. <br><br>How to reach me : dwendywilliams@ygmail.com<br><br><br><br><br><br><br><br>
+🔭 I’m currently working on next.JS<br><br>👯 I’m looking to collaborate with software developers<br><br>🌱 I’m currently learning react native<br><br>💬 Ask me about the architecture of web applications, object-oriented  principles and web services.<br> <br>⚡ Fun fact : I love animal documentaries. <br><br>How to reach me : dwendywilliams@gmail.com<br><br><br><br><br><br><br><br>
 
 
 
